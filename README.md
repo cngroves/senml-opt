@@ -1,10 +1,10 @@
-# {DRAFT_TITLE}
+# SenML Options
 
-This is the working area for the {DRAFT_STATUS} internet-draft, "{DRAFT_TITLE}".
+This is the working area for the Individual internet-draft, "SenML Options".
 
-* [Editor's copy](https://{GITHUB_USER}.github.io/{GITHUB_REPO}/)
-* [{DRAFT_STATUS} Draft] (https://tools.ietf.org/html/{DRAFT_NAME})
-* [Compare {DRAFT_STATUS} Draft and Editor's copy] (https://tools.ietf.org/rfcdiff?url1=https://tools.ietf.org/id/{DRAFT_NAME}.txt&url2=https://{GITHUB_USER}.github.io/{GITHUB_REPO}/{DRAFT_NAME}.txt)
+* [Editor's copy](https://cngroves.github.io/senml-opt/)
+* [Individual Draft] (https://tools.ietf.org/html/draft-groves-core-senml-options)
+* [Compare Individual Draft and Editor's copy] (https://tools.ietf.org/rfcdiff?url1=https://tools.ietf.org/id/draft-groves-core-senml-options.txt&url2=https://cngroves.github.io/senml-opt/draft-groves-core-senml-options.txt)
 
 
 ## Building the Draft
@@ -22,4 +22,4 @@ This requires that you have the necessary software installed.  See
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/{GITHUB_USER}/{GITHUB_REPO}/blob/master/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/cngroves/senml-opt/blob/master/CONTRIBUTING.md).
