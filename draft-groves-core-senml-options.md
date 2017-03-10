@@ -1,4 +1,4 @@
-﻿---
+---
 title: SenML Options
 abbrev: SenML Options
 docname: draft-groves-core-senml-options-latest
