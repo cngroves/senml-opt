@@ -1,7 +1,0 @@
-*~
-*.swp
-lib
-rfc2629xslt
-*.xslt
-.template-files.mk
-draft-*
