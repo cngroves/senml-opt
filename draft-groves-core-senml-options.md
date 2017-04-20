@@ -2,7 +2,7 @@
 title: SenML Options
 abbrev: SenML Options
 docname: draft-groves-core-senml-options-latest
-date: 2017-03-10
+date: 2017-04-20
 category: std
 
 ipr: trust200902
@@ -16,12 +16,12 @@ pi: [toc, sortrefs, symrefs]
 author:
 - ins: C. Groves
   name: Christian Groves
-  organization: Huawei
+  organization: 
   street: '' 
   city: ''
   code: ''
   country: Australia
-  email: Christian.Groves@mail01.huawei.com
+  email: cngroves.std@gmail.com
 - ins: W. Yang
   name: Weiwei Yang
   organization: Huawei
